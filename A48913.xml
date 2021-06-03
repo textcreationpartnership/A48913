@@ -1,0 +1,1178 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An advertisement concerning those most excellent pills, called pilulae radiis solis extractae: being an universal medicin, especially in all chronical and difficult distempers as by the ensuing discourse will most clearly appear. / Truly and only prepared by me Lionel Lockyer ...</title>
+            <author>Lockyer, Lionel, 1600?-1672.</author>
+         </titleStmt>
+         <extent>Approx. 74KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48913</idno><idno type="EEBO-CITATION">9375045</idno>
+  <idno type="VID">42887</idno>
+  <idno type="EEBO-PROQUEST">2264213858</idno>
+  
+            <idno type="STC">Wing L2781_VARIANT</idno>
+            <idno type="STC">ESTC R26160</idno>
+            <idno type="OCLC">09375045</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A48913)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 42887)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1311:22 or 2174:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An advertisement concerning those most excellent pills, called pilulae radiis solis extractae: being an universal medicin, especially in all chronical and difficult distempers as by the ensuing discourse will most clearly appear. / Truly and only prepared by me Lionel Lockyer ...</title>
+                  <author>Lockyer, Lionel, 1600?-1672.</author>
+               </titleStmt>
+               <extent>22 p., [1] leaf of plates : port, coat of arms.  </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1676]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>P. 9 dated: Feb. 19. 1675. Date of publication suggested by Wing.</note>
+                  <note>Frontispiece port. has no frame, and a pillar in background; arms has a square of ornaments surrounding a shield containing three boar's heads.</note>
+                  <note>Half-title, recto of port.: Lockyers pills.</note>
+                  <note>Item at reel 1311:22 identified as Wing L2781 Variant.</note>
+                  <note>Reproduction of originals in the Cambridge University Library and British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Pills --  Early works to 1800.</term>
+               <term type="topical_term">Therapeutics --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="half_title">
+            <pb facs="tcp:42887:1"/>
+            <pb facs="tcp:42887:1"/>
+            <p>Lockyers PILL.</p>
+         </div>
+         <div type="illustration">
+            <pb facs="tcp:42887:2"/>
+            <p>
+               <figure>
+                  <figDesc>portrait of Lionel Lockyer</figDesc>
+                  <l>The true Effigies heere you may behold</l>
+                  <l>Of him who for avoyding others ill</l>
+                  <l>Hath Gaind a Medeine sar excelling Gold</l>
+                  <l>And knowne to all'y<seg rend="sup">e</seg> World for LOCKYERS PILL</l>
+               </figure>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="advert_for_pills">
+            <pb facs="tcp:42887:2"/>
+            <head>
+               <figure>
+                  <figDesc>coat of arms with three boars' heads</figDesc>
+               </figure> AN ADVERTISEMENT Concerning those most Excellent PILLS, CALLED <hi>Pilulae Radiis Solis extractae:</hi> Being an Universal MEDICIN, especially in all Chro<g ref="char:EOLhyphen"/>nical and difficult Distempers; as by the ensuing Discourse will most clearly appear.</head>
+            <head type="sub">Truly and only prepared by me <hi>Lionel Lockyer,</hi> Licensed Physician; and by me faithfully communicated unto Mr. <hi>Tho. Fyge</hi> Apothecary, and Mr. <hi>John Watts</hi> my Nephew which resides with me in my House, and unto none other; from whom only, and from such which they shall ap<g ref="char:EOLhyphen"/>point, you can have this true Solar Preparation after my Decease.</head>
+            <opener>
+               <salute>Courteous Reader,</salute>
+            </opener>
+            <p>HAving through the Blessing of God, <hi>(from whom alone cometh every good and perfect gift)</hi> been so successful in my endeavours, especially in the Chymical Preparation of Mi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erals, which hath been found, and is generally
+<pb n="2" facs="tcp:42887:3"/> acknowledged by the most experienced Practitioners in all ages, to be most effectual for the extirpating and rooting out the ground of all Chronical Distempers; which, for the diffi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ulty of their Cures, arising from the want of good Medicines, are generally the shame of Physicians.</p>
+            <p>Having, I say, (through his goodn<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>) attained to the singular preparation of a Medicine thence, which for its excellent efficacy deservedly merits that Title; by which I would more peculiarly express, or give you to con<g ref="char:EOLhyphen"/>ceive by way of Analogy, of its excellent properties, which are of a <hi>solar</hi> nature, dispelling those Causes in our Bodies, w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ich continued, wou'd not only darken the Lustre, but extinguish the Light of our Microcosmal Sun: which however, that it may more perspicuously appear, I shall give you to understand its Medicinal Properties, which I in my felf have experi<g ref="char:EOLhyphen"/>enced for confirmation of the same.</p>
+            <p>I cannot but commend this Medicine to all tender Mothers of children, which although they seem to be very lusty, yet are suddenly snatcht away by death, having the Convulsion Fits, and in this Distemper you may give to a child of a month old, the eighth part of one of these Pills in a little of the Mothers Brest milk; and after resting three or four days, you may safely give it the child the second time: but if in process of time it shall so happen that the Fits return again, you may increase the Dose, and give the child a little more then at the first time, and so continue as the childs body can bear, until the disease be totally vanquished, And here I cannot but pity the ig<g ref="char:EOLhyphen"/>norance of some Physicians, which I have known in other Countries, that have given to an Infant new-born a Wine-glass full of water, with a little Pe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>al beaten to powder, or the powder of <hi>Beasoar</hi> Stone, which are Medicines of no virtue at all to prevail over such diseases.</p>
+            <p>This Medicine is far more secure, safe and effectual, than all other Medicines whatsoever; for it resists and prevails against all the obstructions of the Spleen, which is the common Sewer or Scavenger of the body; as namely, for Melancholy, and also all obstructions of the Liver, the which unre<g ref="char:EOLhyphen"/>moved corrupteth the Blood, from whence flow grievous dis<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ases, as the continual pain in the head (the which causeth many a young Miad to descend into her grave, there being the vacuity of the course of Nature.) In Women the Suffocation of the Matrix, Suppression of the Monthly Flowings, Tremblings, Palpitations of the Heart, Swooning, Vertigo of the Head, and especially that hideous Torment, (in that part commonly called) the Mother; Feavers, Leprosie, Gout, Falling Sickness, Dropsie; Frensie, Vertigo, the Palsie, Rheums, Defluxions, Headach of all kinds, Convulsion-Fits, Difficulty of Breathing, Stoppage of the Stomach, Cough, Ptissick, Inflammation of the Lungs, Consumption, want of Appetite, bad Dige<g ref="char:EOLhyphen"/>stion, pain in the Stomach, Worms of all kinds, the Scurvy, Colick, In<g ref="char:EOLhyphen"/>flammation and Obstruction of the Liver, Corruption and Putrefaction of blood, Jaundies Black and Yellow, hard Swellings, Tympanies, Pain and Inflammation of the Spleen, Overflowing of the Gall, Tremblings of the Heart, Swoonings, Stoppage and Scalding of the Urine, Bloody-flux, Gravel and Stone in the Reins and Bladder, Rickets in children, Kings-evil, the <hi>Gonorrhea</hi> or Running of the Reins, the violent Hectick Feaver;
+<pb n="3" facs="tcp:42887:3"/> Agues Quotidian, Tertian, Quartan; Green-sickness, Fist<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>la, the Cancer, the Emerods and Piles, Stopping of the Terms and Whites. It exalts the Generative virtue, cleanses and strengthens the Spermatick Vessels, resists all foulness and infection in the act of Generation. It mundifieth and cleanseth-the Skin, restoreth and increaseth Beauty, makes old Age comly and beauti<g ref="char:EOLhyphen"/>ful, and the countenances of all to be chearful and sanguin, and is an An<g ref="char:EOLhyphen"/>tidote against infectious Diseases; although I have mentioned many Di<g ref="char:EOLhyphen"/>seases, I might have saved that labour, for of all these and many other such like Diseases known and unknown, being without name or number, this Medicin is a full and effectual healer. The Pills may be taken alone; and if the Dose be precisely observed, the Operation will be almost insensible because it works so gently, that it is a Restorative to Nature, it restores the Radical Moisture, which is the Magazin of Life, and in a wonderful man<g ref="char:EOLhyphen"/>ner expels all that is noxious out of the body, and will not leave a sluttish corner unswept in any part thereof.</p>
+            <p>It is a Preservative from all Accidents, as contagious Airs, for it stands Sentinel in the body, and will not admit any enemy of Nature to enter: if you increase the Dose, its Operation will be the more active and visi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>le, exercising its Virtues upon the body by expelling the Disease; sometimes it works upward, and sometimes downward, and may be both ways at once: For it sweeps every hole clean, and carrieth away what thing soever is offensive or destructive to Nature. And according to the Dose, it works more or less, but always without any violence: I have seen it conquer many peoples Diseases in a very small Dose, and without any visible Ope<g ref="char:EOLhyphen"/>ration.</p>
+            <p>It demoilisheth and vanquisheth most, if not all manner of Distempers notwithstanding there are certain Infirmities which have been of long con<g ref="char:EOLunhyphen"/>tinuance, which have taken root as it were in the body, and these do re<g ref="char:EOLhyphen"/>quire a more visible Operation, and cannot be expelled with a small Dose.</p>
+            <p>It is excellent against the Leprosie, and such like detestable Diseases where no part is found: there is not in the world a surer, safer, more efficacious and speedier Remedy, provided that Nature be not utterly spent in them that take it.</p>
+            <p>And as for that irksom and unclean Disease, so commonly called the POX, there is nothing more safe and sure, so that the Patient take it in a proper Dose: that is, he begins with two Pills, and so increasing one Pill every day, until he comes to six or seven, that he may sweat, and that the Medicin may have its Operation both by Vomit and Stool, and so con<g ref="char:EOLhyphen"/>tinuing, without resting one day in a week, and the Cure shall be very wel perfected upon him witho<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t any other means at all.</p>
+            <p>Now the great difficulty many men make in curing of this Disease, an<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> the great charges they put people upon, make them slow, and ashamed t<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> go to any for a remedy until they are almost rotten; which I know might b<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> prevented, if the party at the first feeling of himself ill will take but on<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> of these Boxes of Pills.</p>
+            <p>The Gout, Leprosie and Dropsie, are esteemed Diseases for the most par<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <pb n="4" facs="tcp:42887:4"/> incurable: towards the cure of which and such Diseases, this Medicin is wonderful prevalent beyond credit, and it worketh in a short time more than any Medicin in the world ever did, for in a very short time it extracts from the whole body all turbulent, pestilentious, infectious humors, and that many times insensibly, and yet fully and perfectly, but often so mildly, that it is hardly perceivable; and so all true Cures should be wrought: it is not con<g ref="char:EOLhyphen"/>venient (but destructive) to lay violent hands upon Nature; for all her ways are gentle and mild, and so should her Cures be.</p>
+            <p>And so in the cure of the Gout, though the wringing Pains thereof are in<g ref="char:EOLhyphen"/>tolerable, but it shall day by day hereby be a little mitigated and asswaged, the Fits every day decreased, and return not so frequenty as at the first, and gradually vanish quite away never to return again, which is a blessed riddance. They that are well, and desire so to be, let them take the Pills once in a Week.</p>
+            <p>Now all that take these Hills for the Gout and Dropsie, let them take three or four Pills every day. Many people of late after they have lost their Agues. have been very much troubled with the swelling in their Legs, which this Pill hath soon cured; and if they had taken it sooner, it would not only have cured the Ague, but prevented the Swelling in their Legs.</p>
+            <p>Also a most wonderful Operation it hath to produce Fertility or Fruitful<g ref="char:EOLhyphen"/>ness in the most barren of Women, provided the cause be in themselves. This (Gods appointed time being not come) is able to withstand it. This Pill is very necessary for those that take long Voyages to Sea, as to the <hi>East</hi> and <hi>West Indies,</hi> in which Voyages, both the Soldiers and Mariners are much weakned and sorely troubled with the Scurvy, and have no Remedy with them, that can do them any or very li<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tle good; whereas this Pill will enable them to <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>inish their journey with joy and comfort, both going thither, and also com<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ng home, by the blessing of God.</p>
+            <p>Truly in the Universal Nature I have not hitherto found any Medicin near equal to this, by many degrees, which doth so effectually resist all Putre<g ref="char:EOLhyphen"/>faction both of Bloud and Bowels; and this Medicin both Soldier and Mariner may car<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y, though never so far. It resists also all Obstructions, the prime cause of most Infirmities. Also it never corrupts, though kept an hundred years, which Drugs will quickly do, and lose both savour and virtue. But this, as I said and say again, is a sure Medicin, always at hand, easily administred and administrable: In the effects there is no Medicin in the whole world more healthful.</p>
+            <p>The Mariner who continues at Sea many months, and the Soldier in the Camp, suffring there all possible or imaginable inconveniences, cannot want, because this is a Medicin without a Plaster, it is in it self instead of a Plaster and will cu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e wounds or old Ulcers being taken inwardly, therefore Chirurgions in Ships, and they in the Camp, should take care to be provided with this one Medicin above all other; for by it they might preserve the lives of thousands of Mariners and Soldiers, which are under their care and tuition, and one only Ounce alone of these Pills, which is but a very small price, will make above an hundred Doses, and cure the sick with more facility than they can do other<g ref="char:EOLhyphen"/>wise by all their Art, though furnished with Chest fulls of Medicins; yet not
+<pb n="5" facs="tcp:42887:4"/> valuable in comparison or competition with this. If Physicians of Chirurgions in the Camp or Navy, were provided but with some few Ounces of these Pills, they might save the lives of ten thousands, which miserably perish through want thereof. It is the duty of a General of an Army, to provide for the Soldiers under his Command, for when they are afflicted with the Plague, Scurvy, Fluxes, and other Epidemical Diseases, they fall like leaves in Autumn from the trees, or like flies in Winter, when the cold weather comes, they die by heap for want of help, whereas this incomparable Medicin might save the lives, if not of all, yet the greatest part of them. For this ve<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y cause, and in commiseration of mankind, who is subject to so many casualties and infirmi<g ref="char:EOLhyphen"/>ties, I will hereafter be sufficiently stored with this Medicin, which God hath blest my study and labors with, which many Rabbies have inquired for, and mist, and; now I publish it, that they which will, may make use of it. It is a Me<g ref="char:EOLhyphen"/>dicin so useful powerfull and precious, and yet not costly, that there is not the like.</p>
+            <p>A word or two to <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y kind Country men, that live in Country Villages far from Physicians or Apothecaries: When sickness comes upon them, their wives, children or servants, then for a <hi>Garduus</hi> Posset, and if that do it not, they are in a straight, and know not what to do; whereas if they had but one of these Boxes of Pills, they might do their family much good, and their poor Neighbours which are about them, if the Lord gave them hearts so to do; and in so doing, you shall manifest your selves to be like unto our Saviour Christ, of whom the holy Scriptures record, <hi>That he went about doing good,</hi> Acts 10.38. And this is the practice of some Merchants in this City, and likewise some Gentlemen in the Country, which have many Boxes of these my Pills, to give away to poor people.</p>
+            <p>If any man shall imagine or presume upon my Commendation of this Pill, that therefore any Disease though never so inveterate may be removed, he is deceived, and in this doth orr; for I speak here only of such Diseases as by natural means and Gods Blessing may receive and admit of cure, for in some cases the internal parts, the bowels, are so stuffed and obstructed with ill Humours, that no Medicin will prevail, in some their Lungs are rotten and putrified, and the Liver also, before they think of a Physician, or call for help. In such a case, what Physick can help or restore a principal member when it is quite lost, or make new bowels when the old are perished?</p>
+            <p>And somtimes it pleaseth God to strike a man immediately with a Disease which no man can heal, whereof divers examples are extant in the Word of God, as we may read of <hi>Jehoram,</hi> it is said, <hi>That the Lord smote him in his bowels with an incurable Disease, and in two years his bowels fell out.</hi> 2 Chron. 21.18. Likewise <hi>Jeroboams hand dried up,</hi> 1 King. 13. And likewis<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <hi>Gehazies</hi> Leprosie, 2 King. 5.27. Acts 12.13. and such Diseases imposed by a Divine Hand, no hu<g ref="char:EOLhyphen"/>man power can mitigate; only <hi>Sauls evil spirit,</hi> of a melancholy Devil, <hi>Davids harp did mitigate,</hi> but did not cure, 1 <hi>Sam.</hi> 16.23. To God <hi>all things are possible,</hi> whose Hand can only help what the same hard harms; as <hi>Miriam</hi>'s Leprosie was cured by the Prayer of <hi>Moses,</hi> Num. 12.13. Hence it is to be concluded that some Diseases are Incurable, and there my Pill must needs fail: but in Natural distempers they fail not: For my part I take the Pills once every,
+<pb n="6" facs="tcp:42887:5"/> Week, though I am not troubled with any Disease, only for my Healths sake, and to prevent Diseases, and I find much good by them; for about the sixtieth year of my age, I felt some stifness in my Limbs, and in regard of my age, I was afraid I should have fallen into such a Distemper as I had twenty years ago, for then I was so lame (and nothing seen) yet in so much pain that I de<g ref="char:EOLhyphen"/>sired death rather then life. But as God would have it, it parted from me: and as it came of it self, I knew not by what means, so (by the Blessing of God( I cured my self of that Distemper: that is I applyed my self to these Pills, and by the Blessing of God upon them I was set at Liberty, and my Limbs were as nimble as they were thirty years ago; for now I can Leap, walk, or run, with ease and refreshment, which before was a burthen to me; and I find them in my self to be a great Restorer of Nature, for I have used no other Physick about this 12 or 14 years; and I intend to use them as long as I live, for I find that they strengthen me very much, ever since I began to take them: and at this time (through the goodness of God) I am not sensi<g ref="char:EOLhyphen"/>ble of any Distemper upon me: and although the Winter 1662, was cold and long, yet no Wast-coat did come on my back, day nor night, which I had not gone without for thirty years before: One thing also in regard of my Age, makes mee marvel, that I am grown two inches bigger in my body within these twelve months.</p>
+            <p>I have also a preparation from the same matter of this Pill, with a little Addition to it, will cure those that have been deaf many years, these Pills are to be taken as the other, and the price 5 <hi>s.</hi> the box,</p>
+            <p>And I'll tell you, as these Pills are Extracted from the best of Minerals, so they are the best of Medecins, and not to be made without great Expence, much Pains, Time and Operating in the Fire, the which is something tedi<g ref="char:EOLhyphen"/>ous now to me, being the 72 year of my age, only I am assisted by my Cousen <hi>John Watts:</hi> I have lived in the Parish where now I live, these 18 or 20 years, and have wrought from Animals, Vegetables and Minerals; and although I have found out many pretty <hi>Experiments</hi> from the two former, yet I affirm Experimentally, None like the Mineral Kingdom for Medicins; from which (through the goodness of God) I have gained this great Secret, which is the best that ever I knew, or care to know, nor do, or shall any know it, but them that I have Informed you of.</p>
+            <p>It is objected by some, that the Pill in some bodies doth not operate up<g ref="char:EOLhyphen"/>wards and downwards, as some Physick usually doth: yet my Pill, under God, though (insensible, it may be in some bodies) the operation may not be over in a day, or two or three after: It works by expelling wind, water and by sweat and (if need be) in due time by Purge or Vomit, (if there be cause.)</p>
+            <p>Forasmuch as my Pill is well known through most parts of the World, to be a sveraign Remedy for any Diseases; Seamen and Merchants (from ex<g ref="char:EOLhyphen"/>perience) having communicated them almost into all parts; some there are that seek to counterfeit my Pill, which Pill they understand as well as <hi>Wal<g ref="char:EOLhyphen"/>thams Calf,</hi> for it requireth a better wit then lieth in any of their heads, to know the Materials, the Fire and the Water, the Order and the Time to be observed in making thereof; which I have not gained easily, but by long and chargeable experience: But if any of them be able to convert the blood of
+<pb n="7" facs="tcp:42887:5"/> the Serpent into a Salamander, able to endure a violent fire, and take from him his blood, soul, and spirit, and throw him headlong into the Salt Sea, that man shall be like another conquering <hi>Jason</hi> deserving great honour, but these deserve an —rather.</p>
+            <p>I understand also by some Persons, that there are great Disputes and Con<g ref="char:EOLhyphen"/>jectures amongst men, what my Pill is made of; some say it is made of <hi>Tu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pethum Minerale,</hi> others <hi>of Sulpher of Antimony,</hi> and some say it is made of <hi>Crude Mercury</hi> or <hi>Quicksilver:</hi> but not one grain of either of these did I ever use to the making of my Pill. So much for the Negative. It matters not what it's made of, it being so safe and harmless, that women with child do o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>st antly take them, and much good they find by them, for they strengthen both them and the child. And I do conclude in the Affirmative, it is good for any Disease (as I said before) curable by Physick.</p>
+            <p>Now that none may be deceived for after time in buying Pills for mine which are not, I therefore first declare to all that shall read these lines, that the Pill was never taught me by man, neither do I know any man that can make them but my self. But since the Printing of my Book, <hi>May</hi> the 2. 1664: I have given my Secret to three persons, one of whom in regard of his Greatness I dare not mention, considering what <hi>Solomon</hi> saith, <hi>The Kings wrath is as the roaring of a Lyon, but his favour is as the dew upon the grass,</hi> Prov. 19.12. The other two are, as I told you before, my friend, Mr. <hi>Tho. Fyge,</hi> and my Nephew Mr. <hi>John Watts,</hi> of whom, or of them they ap<g ref="char:EOLhyphen"/>point, the right Pills can only be had after my death.</p>
+            <p>Now forasmuch as my aim in making this Medicin, was that all might have benefit thereby, I have so ordered the business that they are to be sold for me in several places of the Nation: but be careful to buy of those whose names are in my Book, I have done enough to keep you from being cheated both now and hereafter, if you are wise; if not I cannot help it. To prevent it if posible, I shall inform you that the great pretenders to know and make my Pills, are several servants that have lived with me, both male and female: now if these thievish servants had stole no more of my Pills, than they did of the way to make them, it had been some hundreds, if not more in my way; for they are as little skilled in the pre<g ref="char:EOLhyphen"/>paration, as an Horse is in Hebrew: And though every one of them make Pills different from one another, yet they will all assert they are mine, though never a one of them is so truly. The trick they have to vend them by, and put them off with, is that which takes only with simple folks, that they shall buy them cheaper of them; but it's dear enough that they pay, which take them with the loss of their lives, or sell them to the loss of their credit for them: for if there be an unskilful hand in such preparations, the best Medicin will degenerate into the worst and most pernicious.</p>
+            <p>I am informed they much desire my death, supposing that then they may cheat the world without controul: but I have ordered the business so, that you may be saved out of such Rooks hands, and buy for many years to come at mine own Hou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, of my Nephew, such as I have taken care to prepare and provide for posterity when I am dead; they being be<g ref="char:EOLhyphen"/>ter for being older.</p>
+            <pb n="8" facs="tcp:42887:6"/>
+            <p>In this Tract are presented several Cures to your view, and a thousand more might be added, but I need not have mentioned these, but to make some ashamed of their belying so generous and general a Remedy, and becau<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e they have been before now often Printed I shall give you the briefer Ac<g ref="char:EOLhyphen"/>count.</p>
+            <div type="testimonies">
+               <p>
+                  <hi>IAne Newbury</hi> in the Parish of <hi>Antony</hi> near <hi>Plimouth,</hi> by a grievous Distem<g ref="char:EOLhyphen"/>per in her head and eyes, at length became blind, was judged by several persons, from whom advice was desired, to be incurable; at last by the counsel of Mr. <hi>A. F</hi> Practitioner in Physick in the same Place, she made use of these Pills and in a short time found great amendment, and a little after a perfect Cure, and enjoys perfect Health and Sight. Octob. 19. 1674.</p>
+               <p>
+                  <hi>Edmund Herring</hi>'s Child of St. <hi>John</hi>'s in <hi>Cornwal,</hi> being sick and weak for a long time, was under several Physicians hands to little or no purpose, and grew into a Co<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sumption, as was judged past recovery; but at last they took themselves to the use of these Pills for the Distemper, which had that happy <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ffect as to restore it perfectly and is now a lusty lively Child.</p>
+               <p>
+                  <hi>John Blackelere</hi> M<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ster of a Vessel at <hi>Plimouth,</hi> having strained himself by excessive labour, when his Vessel was in danger of being over-set, had an ex<g ref="char:EOLhyphen"/>traordinary Tumor also afflicted him by means of it, for which he used ma<g ref="char:EOLhyphen"/>ny Medicins but in vain, till at length he used these Pills, which did com<g ref="char:EOLhyphen"/>pleat his Cure.</p>
+               <p>
+                  <hi>Balthazar Rawlings</hi> coming from <hi>Newfound-land</hi> to <hi>Plimouth,</hi> was lookt on by the Doctor and Master as dead, and the Mariners were about to throw him over-bord; but some small Symptoms of life remained in him; being put ashore, he lay at one <hi>John Fleetwood</hi>'s House in <hi>Plimouth,</hi> eight or nine days in a most deplorable condition, and at last fell to the use of these Pills, with the Operation of which he evacuated almost an incredible quantity of corrupt blood and putrid matter, viz. eight or ten times a day about two or three quarts, which made him a sound man, and he went hence into His Maje<g ref="char:EOLhyphen"/>sties Service.</p>
+               <p>
+                  <hi>John Langham</hi> in the City of <hi>Exon,</hi> having an Impostume gathered in his side, was left by several Doctors as incurable, he growing worse under all their means, at last resolved upon the use of Dr. <hi>Lockyer</hi>'s Pills, which did by degrees through Gods blessing make him perfectly well; the Operation of the Pills bringing away all the impostumated matter and the bag which did contein it, and much congeled Blood with it.</p>
+               <p>
+                  <hi>Arthur Fisher</hi> of S. <hi>Tho. Southwark,</hi> cured of a violent Spleen, which had been his Companion for 30 years, and under all the means his friends and himself could obtain, could procure no help.</p>
+               <p>The Wife of Mr. <hi>John Pitts,</hi> late of <hi>London</hi>-bridg, Instrument-m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ker, being forc d to the taking these Pills as her last refuge for an exceeding gnawing pain in her bowels, upon the taking 5 of them voided in less then 5 hours by estimation 500 wo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ms, and cleared of all her pain and her worms toge<g ref="char:EOLhyphen"/>ther.</p>
+               <p>Mr <hi>Cook</hi>'s Child, a Tanner at <hi>Rygate,</hi> cured of the Convulsion Fits, after all hopes of Cure was past.</p>
+               <pb n="9" facs="tcp:42887:6"/>
+               <p>Mrs. <hi>Anne Parsons</hi> of <hi>Muchwenlock,</hi> cured of the Kings Evill, to the great wonder of all that knew her.</p>
+               <p>
+                  <hi>Elizabeth Munns</hi> wife of <hi>William Munns,</hi> of <hi>Sheffield</hi> in <hi>Yorkshire,</hi> having her brest Cancerated to that degree that all the Physicians gave her over, yet for 10 <hi>s.</hi> cost was Cured, and has since that a living Child, and does at this day give suck, and her brest sound.</p>
+               <p>Mr. <hi>Barton,</hi> 70 years of age, of the same place, with a dropsical tumour that fell into his Leg, was so very bad that the Chirurgeons could do no good on it, but at last came to this that the Leg must be cut off, or no Cure; yet after all, was Cured in a months time, and is at this day a sound man.</p>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <opener>
+                        <salute>Friends,</salute>
+                     </opener>
+                     <p>THese are to acquaint you, that in the year 1673. I was very much af<g ref="char:EOLhyphen"/>flicted with the Stone, and the pain was so grievous that I could take little rest, or walk upright for certain days, at length being perswaded to make trial of Doctor <hi>Lockyer</hi>'s Pills, in the use of which, through God's blessing, the Stone dissolved and came from me in small stones and gravel, of which I voided an incredible number, part of which I have yet by me, to the number of near an hundred, but have lost many more: I thought convenient to mention these things for the incouragement of such as have like trouble, no more but rest</p>
+                     <closer>
+                        <dateline>
+                           <hi>Lyn,</hi>
+                           <date>Feb. 19. 1675</date>
+                        </dateline>
+                        <signed>Robert Fawkner,</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <p>
+                  <hi>Jacob Tyre</hi> at the <hi>Oil-Mill</hi> without <hi>Lyn</hi> South-gates, his Daughter having a dry sore head for a long time, and used many Medicines to little or no purpose, only most of them would take it off for the present, but it would come again; at length they concluding it to be a scald, they went to one in <hi>Lyn</hi> who is a professed Artist in such Cures, but when the Artist saw it, she would not undertake it unless she might pluck off the hair, which the Childs Mother would not yield to, but followed the Child with the Pills as she was directed, and so the Child received a perfect Cure in a short time, and re<g ref="char:EOLhyphen"/>mains sound to this day, and it is some years since.</p>
+               <p>
+                  <hi>John Gurten</hi> of <hi>Woodham-Ferres, Essex,</hi> after he had spent above 10 <hi>l.</hi> i<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Doctors and Physique, for the scurvy, wind-gout and wind-colick, bein<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> never the better, took <hi>Lockyers</hi> Pills, the first two boxes enabled him to g<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> about. the second two boxes made him perfect well.</p>
+               <p>
+                  <hi>John Day</hi> of the same Parish, was troubled with the Dropsie, Wind-gou<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> and Sciatica for some years, and when he was confined thereby to his chai<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> and as he said, going into the ground, desparing of recovery, because h<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> found no relief from the advice of his Physicians; was by four boxes<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> these Pills restored to his strength and freed from pains, and continues<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> without any return thereof.</p>
+               <p>A Merchant of <hi>D<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>von</hi> troubled for twenty years with a bloody Water, w<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> recovered of this sad Distemper by these Pills, when he had spent mar<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> pounds on other means to no purpose.</p>
+               <p>A Gentlewoman of <hi>Exon</hi> through great weakness often miscarried, a<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> being perswaded to these Pills when she was with Child, found t<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <pb n="10" facs="tcp:42887:7"/> happy effect in going her out her time, and hath now a lovely child,</p>
+               <p>Mr. <hi>W. Veal</hi> Minister of <hi>Edsligh</hi> in the County of <hi>Devon,</hi> had a Child very sadly afflicted with the Kings-Evil, which was cured by these Pills, after many other means had failed.</p>
+               <p>Mr. <hi>John Warren</hi> Merchant in <hi>Exceter,</hi> was taken very sadly in his Limbs, so that he could not go, many means were attempted to no purpose, till he took these Pills; he was so weak, especially in his hands, that he could not button his doublet: but after he used the Pills, he increased in strength at this rate, that he could one day bear one pound weight, the second day two pounds, and so on every day proportionably increased in strength, and continues strong and well ever since.</p>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <p>I Think it necessary to give an accompt of the benefit I have received by God's blessing in the use of Doctor <hi>Lockyers</hi> Pills; I was sorely afflicted with a sore humour in my Legs, and I tried means to divert the same, but to little or no purpose, for by the means I used, all the benefit I received was this; the swelling would be asswaged in the morning, but would be as ill again before night, until at length being perswaded to take these aforesaid Pills, by which in short time I received a perfect Cure, and have remain<g ref="char:EOLhyphen"/>ed more healthful ever since (for which I bless God) and it is now near three years since. I know also that the testimony given by <hi>Robert Fawkner</hi> is truth and shall be asserted by</p>
+                     <closer>
+                        <signed>John Rice.</signed>
+                        <dateline>
+                           <hi>Lyn</hi>
+                           <date>this first day of the first Month 1675/6</date>
+                        </dateline>
+                     </closer>
+                  </body>
+               </floatingText>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <p>
+                        <hi>IOhn Hull</hi> of <hi>March,</hi> bought all the Pills I had, and he told me what a great Cure they had done to a Child of his four years of age, that was bursten, that he administred some of those Pills to it, and that he had perfectly <gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ured his Child, and that it was very sound and well.</p>
+                     <p>I had another of <hi>March</hi> that came to me yesterday, and he told me he had <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>een with the King for the Evil he had on both sides of his neck, with <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>hree or four holes on each side, and he was wished by a friend to come <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>o me for half a box of my pills, and in taking of them in one fortnights <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>ime, is perfectly cured.</p>
+                     <closer>
+                        <signed>Your Friend <hi>John Tyffin.</hi>
+                        </signed>
+                        <dateline>
+                           <date>
+                              <hi>Nov.</hi> 2. 1675. </date>
+                           <hi>Godmanchester.</hi>
+                        </dateline>
+                     </closer>
+                  </body>
+               </floatingText>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="testimony">
+                           <head>Mr. <hi>Robert Havercamp</hi>'s Case stated by himself to me.</head>
+                           <p>Having received some wounds in the fleshy part of my thigh about two <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                                 <desc>•…</desc>
+                              </gap>nd twenty years ago, which were ill cured at first, it did with some intermis<g ref="char:EOLhyphen"/>
+                              <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                                 <desc>•…</desc>
+                              </gap>on frequently break out and turn to a fistula, and this last Summer brought <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                                 <desc>•…</desc>
+                              </gap>oon me a desperate lameness and pains to the very small of my Leg, to<g ref="char:EOLhyphen"/>
+                              <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                                 <desc>•…</desc>
+                              </gap>ether with a violent Feaver; and indeed I was even at deaths door: The <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                                 <desc>•…</desc>
+                              </gap>hirurgeons would not undertake it, unless I would consent to have my Thigh
+<pb facs="tcp:42887:7"/> opened to the bone and pay forty pounds for a Cure; the latter whereof did startle me more than the former: So upon your Encouragement I made use of your Pills only, which by Gods help, did so vanquish the humour that fed the part grieved, and also all other Distempers Caused thereby, that in nine weeks I was perfectly recovered, and so coutinue, to the admi<g ref="char:EOLhyphen"/>ration of all that knew me in that weak condition,</p>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <p>At <hi>Salt-Ash</hi> in the County of <hi>Cornwal,</hi> one Mrs. <hi>Ann Binny</hi> having her Lips Distempered with a corrupt bloud, for several years together: her Husband (being a rich man) made use of several Physicians, who drew from him at least forty pounds, but from his wife not the least of her Distemper, but being perswaded to the use of these Pills, was perfectly cured without the help of any other Medicin.</p>
+               <p>Also in St. <hi>Stephens</hi> by <hi>Salt-Ash</hi> one <hi>Phineas Harwood</hi> a Boy of seven years old was perfectly cured of the Kings evil, having no less then fourteen Run<g ref="char:EOLhyphen"/>ning Wounds on him (when he began to take them) and the Corruption that was wont to issue out of the Wounds, the Lad vomited up at his Mouth.</p>
+               <p>Likewise one <hi>Thomas Skine</hi> of the same Parish, was bruised in several parts of his Body, insomuch that he was very sick (as was supposed unto death) was perfectly cured by these Pills only, and that very suddenly.</p>
+               <p>One <hi>Briget Axford</hi> of the same Parish, being in a deep Consumption (as was generally thought) with the use of these Pills was perfectly cured, to the wonder of all her Neighbours, though they had no visible Operation on her Body in at least ten days after her taking them.</p>
+               <p>One Mrs. <hi>Dixon</hi> was troubled very sadly for two years at the least with gniping gnawing pains in the Belly, and by the use of these Pills and Gods blessing upon it, was cured▪ For before she had taken of my Pills six times she had a live Worm came from her by Siege four yards long. The Woman lives in <hi>Deadmans Place</hi> in <hi>Southwark</hi> near unto the Colledge-gate, her Age is about thirty four years, the Worm came from her the latter end of <hi>May,</hi> 1663 If any desire to see the Worm, I have it by me. She also voided another which was seven yards long.</p>
+               <p>I shall acquaint you of one Mr. <hi>Tomlinson</hi> at the Sign of the Golden Hat and Feather in St. <hi>Olaves Street,</hi> who h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d an Ulcer in his Head, which for three years time put him to great misery, and no small expence of money, in which time he had made use of Doctors and Chirurgions, but none could reach his distemper; but by the blessing of God, taking my Pills, they have done it, which is such a Cure that makes all men that know it wonder: for I think such a Cure can hardly be produced.</p>
+               <p>A Friend of mine coming into the company of a young man, who having the <hi>POX,</hi> made his Condition known to my Friend, who gaue him but two Boxes of my Pills, and in three weeks time he was perfectly cured, al<g ref="char:EOLhyphen"/>though he scarce went to bed sober all that time: and within three weeks after he married a Wife, and both of them very well to this day. This was done in <hi>December</hi> 1662.</p>
+               <pb n="12" facs="tcp:42887:8"/>
+               <p>One thing more I cannot pass by, to acquaint the World withal, Concern<g ref="char:EOLhyphen"/>ing a man in a very sad Condition: For the first time that I came to him, I found him sitting in a Chair, and his Legs laid up upon another Chair, and so full of pain that he was not able to riseout of the place, but by the help of his Wife and Servants. He had kept one in his house some five months, who did administer unto him, but in all that time he found no good; then he took one box of my Pills, and he took them from two to three, four, five and six, and so on, daily increasing, till he took fourteen at one time, and in taking out the whole Box, they never gave him a stool extraordinary (as he thought) nor any Vomit, neither could he find himself one jot the better. Small en<g ref="char:EOLhyphen"/>couragement (a man would think) to take any more; but I told him, if ever he were cured it must be by these Pills; then he took another Box, and whereas he took till he came to fourteen of the first Box, he could take of the second Box but three or four, because they then wrought so strongly upon him both by Vomit and Stool; and then was the man in good hope of Cure. Well, he took a third Box, and before that was half spent, they broke him out all o<g ref="char:EOLhyphen"/>ver his body into Scabs, and sent out his Distemper with a <hi>Pox:</hi>
+               </p>
+               <p>I set down this example to convince some persons of their Folly, who have had some Distempers upon them many years, and they think by taking of my Pills four or five times to be cured, and if things be not presently according to their expectation, neglect and slight them; not considering that a Tree, and so a Disease, that hath had a long time in rooting will require so much the longer time to root out again: But to all such persons I say I had rather they would let alone my Pills, and keep their Money and their Diseases too.</p>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <opener>
+                        <salute>Sir,</salute>
+                     </opener>
+                     <p>At <hi>Camden</hi> in <hi>Gloucester-shire,</hi> I gave of your Pills in number eight, to a poor man afflicted with the Stone, and his Urine had been stopt for two days: In four hours upon their operation he had ease; and taking a Dose every morning for a week many small Stones and much Sand came away by Urine.</p>
+                     <p>A woman who by the <hi>Lues Venerea</hi> had almost lost her speech, her <hi>Uvula</hi> being so swelled and the <hi>Fauces</hi> ulcerated, that she could but whisper, her feet and legs suffered pains like those of the Gout; in the taking of a Box and half of these Pills, was restor'd to her speech and quit of her pains.</p>
+                  </body>
+               </floatingText>
+               <p>These with many more were communicated from one experienced in Physick.</p>
+               <p>The Wife of <hi>John Wilson</hi> of <hi>Bourn</hi> in <hi>Lincolnshire,</hi> was swell'd with Dropsie and Tympany as big as two women, and judged past recovery, was after two years illness cured by these Pills in a little time.</p>
+            </div>
+            <div type="letters_of_testimony">
+               <pb n="13" facs="tcp:42887:8"/>
+               <head>LETTERS.</head>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <opener>
+                        <salute>Much Honoured Sir,</salute>
+                     </opener>
+                     <p>IN general I have found the operation of your Pills to be safe and admirable to remove such infirmities as other Physick cannot reach; more particular<g ref="char:EOLhyphen"/>ly I have experience of their efficacy in mine own Family I my self have been sickly from my youth up, and have taken much Physick, but never any to be compared to them, for my infirmities increased and natural strength a<g ref="char:EOLhyphen"/>bated yearly, till I met with these excellent Pills. The first occasion of my taking them was an extreme Pain in my head of long continuance, I feared an Impostume, but after I made use of your Pills, I was soon freed from that pain, and also from divers other infirmities; my health and strength re<g ref="char:EOLhyphen"/>newed to the admiration of all those that knew me formerly: I gave them to my younger Daughter, sickly many years, we feared a Consumption; to mine eldest Daughter, troubled with a Tumor in her Ear, the pain so violent that we feared either immediate Death or distraction, but through Gods bles<g ref="char:EOLhyphen"/>sing on your Pills, they were soon rid of their Infirmities. I gave them to my Wife, much subject to the Palsie, and great benefit she finds by them. This good success in mine own Family emboldned me to recommend them to many others who find them to be excellent in very many and great distempers and diseases, both acute and chronical.</p>
+                     <closer>
+                        <signed>Your much obliged Friend and Servant <hi>William Hewson.</hi>
+                        </signed>
+                        <dateline>
+                           <hi>Dublin,</hi>
+                           <date>
+                              <hi>Dec.</hi> 17. 1664</date>
+                        </dateline>
+                     </closer>
+                  </body>
+               </floatingText>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <opener>
+                        <salute>Reverend Doctor,</salute>
+                     </opener>
+                     <p>I Thought good to give you a Relation of the rare effects of your Pills with us in <hi>Ireland.</hi>
+                     </p>
+                     <p>A Servant of my own, <hi>William Mathews</hi> by name, my Steward, being abroad in my service, was taken seven miles from home, with a violent Stitch in his side, so that being necessitated to ride a foot pace, was not able to stand still nor speak, but groaned in most terrible manner with pain: judging it to be a Plurisie, I gave him four of your Pills, which gave him so much Ease, that he fell a sleep, and after one hours waking gave him a Vomit, which eased him so much that he rested well all night, and the next day rose, and was pretty well.</p>
+                     <p>To one about twelve years of age, troubled five years with a very great Belly extreamly hard, I gave some of your Pills bruised in White-wine, which wrought most upward, and sometimes downward, and sometimes ope<g ref="char:EOLhyphen"/>rated no way visible, yet in a months time brought the bigness and hardness of her belly down.</p>
+                     <p>Another of my servants about <hi>Christmas</hi> last became diseased with a langui<g ref="char:EOLhyphen"/>shing Sickness, a hollow Cough, loss of Stomack, flesh and spirit, so that he dould digest no sustenance, and was in effect a dying man; I gave him some of your Pills, which before they operated made him so sick, tha the thought he should have died, and about three hours after he vomited twice adust Melancholy and Choler; and making him some comfortable Broth he took it,
+<pb n="14" facs="tcp:42887:9"/> and thought he should have thrown it up as formerly he did all that he took, but it staid with him. Being very weak, and the weather extream frosty, I durst not give him of them often, yet when I though convenient, I gave him again and again, which wrought both ways with him, and most commonly what he voided upward was a gluterous substance, much like the stuff that comes from an old Ulcer, of a most ugly colour and great quantity; but in the end, with the Blessing of God in two months time he was able to ride, work, eat heartily.</p>
+                     <p>Another of my Servants was taken with an Head-ach, a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>d a pain in his left side, and all night both were so violent, that he was in a high Fever, I gave him three Pills, and about two hours after they gave him a Vomit, which took away much of his pain, and Fever away, so that he rested well that night; and the next day I gave him more Pills, which did not visibly operate; and the next day he was well.</p>
+                     <p>A woman being troubled for two years with often Faintings and Swoon<g ref="char:EOLhyphen"/>ings, sometimes twice a day, sometimes once or twice in two or three days, was by your Pills cured, which brought up much Water, Choler and green stuff.</p>
+                     <p>I have been my self troubled with the <hi>Hypocondriack</hi> Melancholy, and some time past, the effects have been very tedious and bad; I have these three months past once a week taken of your Pills, and find good by them and trust, with the blessing of God upon them, to live more healthful and comfortable then formerly.</p>
+                     <closer>I remain, <salute>Reverend Sir,</salute>
+                        <signed>Your Friend, R. B.</signed>
+                        <dateline>
+                           <hi>Dunbuan</hi> near <hi>Dublin.</hi>
+                           <date>
+                              <hi>Feb.</hi> 4. 1664.</date>
+                        </dateline>
+                     </closer>
+                  </body>
+               </floatingText>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <opener>
+                        <salute>Honoured Doctor.</salute>
+                     </opener>
+                     <p>HAving this opportunity, I thought to acquaint you with the effect of your Pills upon my self in reference to my distemper (which is the Stone both in the Reins and Bladder) I have taken them at times near two years, and I will assure you I did never take them, but they did bring away Stones or Sand or both from me.</p>
+                     <p>Except one time that I took them for an extraordinary pain in one of my shoulders, which pain was so exceeding great, that I could not move my Arm to put on my clothes, neither did I take any rest for two or three days and nights: then I took five Pills (which is my usual Do<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e) and I could not per<g ref="char:EOLhyphen"/>ceive them to work any where else about me but in my shoulder, where my pain lay, and they did quickly give me ease and cured my shoulder. I seldom find any pain or heat in my back or rei<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>s, but if I take Pills, I am sure to be well quickly. Not long since I was taken with a violent pain in my back, on the left side, where I used to be pained with the Stone, which continued from <hi>Monday</hi> noon till <hi>Thursday</hi> mor<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ing, all which time I was in much pain: the <hi>Thursday</hi> morning about five of the clock I took five Pills, which in less than two hours gave me much ease, and I did perceive the stones more down into my bladder, where they did cause much pain some days; then I voided one great stone, a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> big and of the same form of a small fil bea<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>d kernel, it was so big
+<pb facs="tcp:42887:9"/> that when I saw the top appear, I was forced to pluck it out with my fingers and with it came many more less; that afternoon I voided above seven score and the next two days about forty more, since which I have felt little pain.</p>
+                     <p>Sir, I shall onely say this, that according to my knowledge they have don<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> many people good, but did never know them do any one harm.</p>
+                     <p>Sir, this is all at present from him that is,</p>
+                     <closer>
+                        <signed>
+                           <hi>Your highly engaged Friend,</hi> John Duncombe.</signed>
+                        <dateline>
+                           <hi>Windover</hi>
+                           <date>
+                              <hi>June</hi> 5. 1665.</date>
+                        </dateline>
+                     </closer>
+                  </body>
+               </floatingText>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <opener>
+                        <salute>Noble Doctor,</salute>
+                     </opener>
+                     <p>I Have (with some small intermissions) taken your Pills these fifteen Month the necessity of my disease forcing me to make a full experiment of them When I began to take them, I may truly say I was <hi>deploratus à medic<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>,</hi> havin<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> suffered much from divers learned and worthy men, without any success, be<g ref="char:EOLunhyphen"/>sides the increasing of my P<gap reason="illegible" resp="#keyers" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>son-diseases, which were <hi>Scurvy, Dropsie, Win<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap> Gout,</hi> (the last the worst and most tormenting) These complext and contrar<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> Diseases, I laboured under for three years in my Prison, in which, what was a<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> ministred against the one, brought and increased the other upon me. Sir,<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> intend not to trouble you with any large Discourse, I know it would be t<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>
+                        <g ref="char:EOLunhyphen"/>dious, only in thankfulness to God, from whose influence and blessing alone d<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>
+                        <g ref="char:EOLunhyphen"/>pends the efficacy of every creature, and in due acknowledgments to you,<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> think fit to let you know, that by the blessing of God upon your Pills I am (<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> far as I know) perfectly cured of the <hi>Dropsie</hi> and <hi>Scurvy.</hi> When I began<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> take them my teeth were ready to fall out, and my gums festered like a gall Horse back, and I was swelled from head to foot. And as for my other to<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>
+                        <g ref="char:EOLunhyphen"/>menting Disease (the <hi>Wind-gout</hi>) though I cannot say I am perfectly cur<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> of it, yet I bless God it is so mitigated, that it's tolerable, and though it do return upon me, yet holding on in taking your Pills, they always prev<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> against it, (though with great struglings) and it grows less and less. T<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> manner of working these Pills is so various, that I believe none can pr<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>
+                        <g ref="char:EOLunhyphen"/>mise how they will work three times together; sometimes by Vomit, som<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>
+                        <g ref="char:EOLunhyphen"/>times by Stool, sometimes by both, sometimes by neither, but most constant by Spitting, and ever concluding with the old Wives remedy for the Win<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> The truth is, their operation is as if they were Rational rather than Natur<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> Agents; what they find at present most annoying or threatning Nature, th<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> they fall upon by affording and applying to Nature a succour and vert<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> against it: Sir, God has put a great honour upon you, in making you the i<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>
+                        <g ref="char:EOLunhyphen"/>strument of bringing this rare Medicament into the World for the good<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> Mankind, the like to which I do not think hath been since the World bega<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> Sir, I am bound to subscribe my self,</p>
+                     <closer>
+                        <signed>
+                           <hi>Your very thankful and obliged Friend and Servant.</hi> J. Downs.</signed>
+                        <dateline>
+                           <hi>Tower,</hi>
+                           <date>
+                              <hi>May</hi> 1. 1665.</date>
+                        </dateline>
+                     </closer>
+                  </body>
+               </floatingText>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <pb facs="tcp:42887:10"/>
+                     <opener>
+                        <salute>Sir,</salute>
+                     </opener>
+                     <p>I Shall here declare what the goodness of God hath done for me by the means of your Pills; I had some nine or ten years ago taken, by means of my employment at that time, exceeding violent Colds one after another, which did occasion a wind and a water together in my flesh, at some times <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>o such a pain, that I had no rest night nor day, but was so torn, that I could not contain my self from crying out many times in much bitterness, yet <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>o swelling or any thing to be seen. I was so lame that sometimes I have been <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>aken off from my employment six weeks, sometimes eight weeks, nay, <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>ometimes more than ten or eleven weeks together. Then it pleased the Lord I heard of your Pills, and took the quantity of four or five Boxes of <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>hem, by which means I doubt not but there is perfect cure wrought upon <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>e, besides some other inferiour distempers quite removed; so that through <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>ercy, I am in very good health: I desire to give God the glo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>y, and you <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>hanks. So I rest</p>
+                     <closer>
+                        <signed>
+                           <hi>Thy Friend in love,</hi> Will. Pryer.</signed>
+                        <dateline>From <hi>Martins Lane</hi> in <hi>Colchester,</hi>
+                           <date>
+                              <hi>April</hi> 10. 1665.</date>
+                        </dateline>
+                     </closer>
+                  </body>
+               </floatingText>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <opener>
+                        <dateline>
+                           <hi>London,</hi>
+                           <date>
+                              <hi> June</hi> 14. 1665.</date>
+                        </dateline>
+                        <salute>Sir,</salute>
+                     </opener>
+                     <p>HAving had experience of the incomparable virtue of your famous Pills I have thought good i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> gratitude to give you an account of the bene<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>ts I have received by them about <hi>August</hi> last, by the persuasion of some friends <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>eing me in a very sad and deplorable, condition, having then been under the <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>octors and Chirurgeons hands nigh twelve moneths for the cure of a <hi>Fistula <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap>ana,</hi> but found no help for them, but rather after much torture and despair <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> my self ever to be recovered, I did procure a box of your Pills, which did <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> my admiration, within three weeks that I made use of them, take away <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>e pain and cause of the Distemper, so that I was able to go healthfully <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>bout my occasions, and in <hi>November</hi> last, rid on horse-back three or four <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>undred miles.</p>
+                     <closer>
+                        <signed>
+                           <hi>Your faithful Friend and Servant.</hi> Nich. Hudleston.</signed>
+                     </closer>
+                     <postscript>
+                        <pb facs="tcp:42887:10"/>
+                        <head>POSTSCRIPT.</head>
+                        <p>I Being at my Brothers in <hi>Lincolnshire,</hi> his wife lay Bed-rid, and had so don<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap> for some moneths, the night before I came thither, her neighbours did n<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap> expect she would live till the next morning; about a moneth or two befor<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap> she had her thighs and legs lanced and cut for the Dropsie, she having bee<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap> diseased six or seven years, and could get no cure; hearing some discour<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap> of your Pills, desired me to give her half a score of them, which I did, an<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap> she making use of them, recovered, so that within a fortnight I had a Lett<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap> from my Brother for a Box of your Pills, with an account that his wife w<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap> then able to go about the house.</p>
+                        <closer>
+                           <signed>Id. N.H.</signed>
+                           <dateline>From the <hi>Three Horse-shoes</hi> near S. <hi>Dunstans-Hill.</hi>
+                           </dateline>
+                        </closer>
+                     </postscript>
+                  </body>
+               </floatingText>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <opener>
+                        <salute>Friend,</salute>
+                     </opener>
+                     <p>I Have sent thee the mans own declaration of what thy Pill has done f<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> him, he is an honest man, and hath spoken nothing but the truth: and<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> for my self I was so lame with a pain in my huckle-bone for three years, th<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> I went in much pain with a staff and with sore legs for twelve years, so th<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> I was in such misery, that I could not rest night nor day: and when I came<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> thee first, I could not get on a shoe on one foot: and it broke out of my hi<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> with a salt Rheum that I could not sit, nor lie down, but in such misery, th<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> when I rose up from the place I either sate or lay down on, I thought m<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> flesh would have come from my bones: but by the goodness of God upon t<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> Pill, I am now in bodily health, and in my limbs. U<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>der my affliction fo<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>
+                        <g ref="char:EOLunhyphen"/>merly I could not go from my house a quarter of a mile without resting thr<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> or four times, now I came from <hi>London</hi> in less than a day and an half. M<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> wife remembers her kind love to thee.</p>
+                     <closer>
+                        <signed>
+                           <hi>Thy loving Friend</hi> Joseph Rieve.</signed>
+                        <dateline>From <hi>Colchester</hi>
+                           <date>the 10th. of the second Moneth.</date>
+                        </dateline>
+                     </closer>
+                  </body>
+               </floatingText>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <opener>
+                        <salute>My honoured worthy Friend,</salute>
+                     </opener>
+                     <p>MY first to you like the blind mans arrow, got me that which in twel<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> years time hath for the present freed me of su<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>h a Distemper and Di<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>
+                        <g ref="char:EOLunhyphen"/>ease, being the Scurvy and Dropsie▪ that all my Doctors skill, with much co<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> and pains could not do, far beyond what I can express in Paper; ever blesse<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> be his name that taught it you, and you also for your love in sending me o<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> Box and Book.</p>
+                     <closer>
+                        <signed>
+                           <hi>Your ever thankful Friend and Servant,</hi> John Lockyer.</signed>
+                        <dateline>
+                           <hi>Ilchester,</hi>
+                           <date>
+                              <hi>Septemb.</hi> 24. 1666.</date>
+                        </dateline>
+                     </closer>
+                  </body>
+               </floatingText>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <opener>
+                        <salute>Honoured Doctor,</salute>
+                     </opener>
+                     <p>THe good affection I bear to you upon the Repute of your Pills, oblig<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> me to give you a demonstration of the names of some persons whic<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> they have done perfect Cures on, and have also inserted the place of the Residence, as followeth, <hi>viz.</hi>
+                     </p>
+                     <p n="1">1. <hi>Thomas Readshey</hi> living at <hi>Standly</hi> in the County of <hi>Durham,</hi> dangerousl<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> ill of a shaking Ague, was perfectly cured.</p>
+                     <p n="2">
+                        <pb n="18" facs="tcp:42887:11"/>2. <hi>Margaret Farlese</hi> living at <hi>Hedley-Hope,</hi> extreamly ill at her Stomach, in <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>ery short time was perfectly cured, and many Worms cast up in her Vomit.</p>
+                     <p n="3">3. Mr. <hi>Wasey</hi>'s Daughter of <hi>Newlands</hi> extreamly ill of a Fever, was by <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>hese Pills cured.</p>
+                     <p n="4">4. <hi>William Wrane</hi> living at <hi>Billirow,</hi> dangerously ill, and his body brought <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>xtream weak by bad Digestion and Melancholy, was with half a Box perfect<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>y cured.</p>
+                     <p n="5">5. <hi>George Barley</hi> living at <hi>Lowraw,</hi> a Distemper came upon him so violently <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>y drinking cold Water when he was extream hot with working, as no body <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>hought he could live, with half a Box was perfectly cured.</p>
+                     <p n="6">6. <hi>Henry Marchall,</hi> near threescore and ten years of age, living at <hi>Standley,</hi> being extreamly troubled with a Tumor in his Leg many years, with taking <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>alf a Box was perfectly cured.</p>
+                     <p n="7">7. Mr. <hi>Fresell</hi> living in <hi>Durham,</hi> having such a pain in his Bowels as the Physicians gave him over, was by these Pills perfectly cured.</p>
+                     <p n="8">8. <hi>Jane Hedley</hi> living at <hi>Hedley Hill,</hi> dangerously ill of a Fever, with a do<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>en Pills was perfectly cured.</p>
+                     <p n="9">9. <hi>John Arrowsmith</hi>'s two Children living at <hi>Cornsey,</hi> were both perfectly <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>ured, the one of the Rickets, the other of a Lameness in his Joints, which <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>ad made him a Cripple some years.</p>
+                     <p n="10">10. <hi>Luke Harle</hi> living in <hi>Newcastle,</hi> having been long and grievously trou<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>led with a <hi>Fistula,</hi> though much helped by other means, yet was never per<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>ectly cured until he took Doctor <hi>Lockyers</hi> Pills, which took away the very <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>ause of his Distemper, and so is perfectly cured.</p>
+                     <p n="11">11. Mr. <hi>Anthony Lorain</hi> of <hi>Walker,</hi> very much perplexed with a violent Head-ach, with taking half a Box of these Pills was cured.</p>
+                     <p>There are many which have been almost cured, and have found abundance <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>f good by them, but I shall name none of them; and this I can onely say, I <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>ave heard of none that ever got harm by them.</p>
+                     <closer>
+                        <salute>Sir,</salute>
+                        <signed>
+                           <hi>Your humble Servant,</hi> Charles Sanderson.</signed>
+                        <dateline>From <hi>Hedley Hope,</hi>
+                           <date>
+                              <hi>Ian.</hi> 13. 1667.</date>
+                        </dateline>
+                     </closer>
+                  </body>
+               </floatingText>
+               <p>One Mr. <hi>William Hocknel</hi> a Joiner in <hi>Oldstreet, London,</hi> having suffered four <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ears lameness in all his Joints, and having spent the greatest part of his <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ubstance on Physicians, and all to no purpose, at last fell to the use of this <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ngle and singular Medicin; which in a short time, to the wonder of all that knew him, restored him to his former health and strength. Since which he per<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>uaded a Boy (whose name I know not) to take the said Pills, (which Boy <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ad been in S. <hi>Bartholomews</hi> Hospital for some moneths, and turned out as <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ncurable) and in taking about four Boxes he was perfectly recovered. I shall <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>efer you to the said <hi>William Hocknell</hi> for a further account.</p>
+            </div>
+            <div type="licensed_sellers">
+               <p>You my kind Country-men that desire to use these my Pills, the Secret of which was discovered unto me by Providence for your good, be very careful <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>o buy them of some of these persons whose Names and Dwellings you find in his Book, and no where else, except you will be cheated. They are both made and sold by my self or my Cousin Mr. <hi>Iohn Watts</hi> in my own house, and <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>lso by Mr. <hi>Thomas Fyge</hi> Apothecary, at the Sugar-Loaf without <hi>Bishopsgate;</hi>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>om whom they are committed to be sold,</p>
+               <list>
+                  <pb n="19" facs="tcp:42887:11"/>
+                  <item>In <hi>London</hi> by Mr. <hi>Richard Lownds</hi> at the White Lion in <hi>Duck Lane</hi> near <hi>West-Smithfield,</hi> Bookseller.</item>
+                  <item>In <hi>London</hi> by Mr. <hi>Randall</hi> at the three Pigeons a little beyond S. <hi>Clements</hi> Church, on the back-side, in the <hi>Strand.</hi>
+                  </item>
+                  <item>In <hi>London</hi> by My Cousin <hi>Lockyer</hi> at the <hi>Catharine-wheel</hi> by S. <hi>Iames</hi> house.</item>
+                  <item>In <hi>London</hi> by Mr. <hi>Tho. Basset</hi> at the George in <hi>Fleetstreet</hi> near <hi>Cliffords Inn.</hi>
+                  </item>
+                  <item>In <hi>London</hi> by Mr. <hi>Iohn Place</hi> at <hi>Fu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>nivals Inn</hi> Gate in <hi>Holborn.</hi>
+                  </item>
+                  <item>In <hi>London</hi> by Mr. <hi>Rob. Horne</hi> at the South Entrance into the <hi>Royal Exchange.</hi>
+                  </item>
+                  <item>In <hi>London</hi> by Mr. <hi>Man</hi> at his Coffee-House in <hi>Exchange Alley.</hi>
+                  </item>
+                  <item>In <hi>London</hi> by Mr. <hi>Samuel Crouch</hi> in <hi>Popes-head Alley.</hi>
+                  </item>
+                  <item>In <hi>London</hi> by Mr. <hi>Horseman</hi> near the May-pole in <hi>Popler.</hi>
+                  </item>
+                  <item>In <hi>London</hi> by Mr. <hi>Whitechurch</hi> at the Green Bank in <hi>Wapping.</hi>
+                  </item>
+                  <item>In <hi>London</hi> by Mr. <hi>Thomas Thornton</hi> Barber-Chirurgion by <hi>Shadwel Dock.</hi>
+                  </item>
+                  <item>In <hi>Hull,</hi> by Mr. <hi>George Hodgson.</hi>
+                  </item>
+                  <item>
+                     <hi>Rochester,</hi> by Mrs. <hi>Baldwins.</hi>
+                  </item>
+                  <item>
+                     <hi>Norwich,</hi> by Mrs. <hi>Anne Brown</hi> at S. <hi>Margarets,</hi>
+                  </item>
+                  <item>
+                     <hi>Salisbury,</hi> by Mr. <hi>Ioseph Stockwell.</hi>
+                  </item>
+                  <item>
+                     <hi>Newbury,</hi> by Mr. <hi>Thomas Stockwell.</hi>
+                  </item>
+                  <item>
+                     <hi>Exceter,</hi> by Mr. <hi>Abisha Brocas.</hi>
+                  </item>
+                  <item>
+                     <hi>Worcester,</hi> by Mr. <hi>Iohn Iones.</hi>
+                  </item>
+                  <item>
+                     <hi>Manchester,</hi> by Mr. <hi>Ralph Sheldermine.</hi>
+                  </item>
+                  <item>
+                     <hi>Yarmouth,</hi> by Mr. <hi>Iohn Tuttle.</hi>
+                  </item>
+                  <item>
+                     <hi>Leicester,</hi> by Mr. <hi>Francis Young,</hi> and at <hi>Lutterworth</hi> at his shop there.</item>
+                  <item>
+                     <hi>Cambridge,</hi> by <hi>Francis Drury</hi> at Mr. <hi>Richardsons</hi> at the <hi>Angel-Gate</hi> on the <hi>Market-Hill.</hi>
+                  </item>
+                  <item>
+                     <hi>Portsmouth,</hi> by Mr. <hi>Paul Richard,</hi> Distiller.</item>
+                  <item>
+                     <hi>Canterbury,</hi> by Mrs. <hi>Bisset</hi> in S. <hi>Peters</hi> Parish near <hi>Kings Bridge.</hi>
+                  </item>
+                  <item>
+                     <hi>Newcastle,</hi> by Mr. <hi>Peter Sanderson,</hi> Merchant.</item>
+                  <item>
+                     <hi>Northampton,</hi> by Mrs. <hi>Grace Collins,</hi> Bookseller.</item>
+                  <item>
+                     <hi>Plimouth,</hi> by Mr. <hi>Iohn Reep</hi> near the New Church.</item>
+                  <item>
+                     <hi>Shrewsbury,</hi> by Mr. <hi>William Brown</hi> at the Fox in the Corn-market.</item>
+                  <item>
+                     <hi>Bristol,</hi> by Mr. <hi>Iohn Trotter</hi> at the three Boars heads in S. <hi>Iames</hi> Parish near the <hi>Pity-Gate.</hi>
+                  </item>
+                  <item>
+                     <hi>Colchester,</hi> by <hi>Tho. Chettam</hi> near the Bull in <hi>Mary Magdalens street.</hi>
+                  </item>
+                  <item>
+                     <hi>York,</hi> by Mr. <hi>Lambert</hi> Bookseller.</item>
+                  <item>
+                     <hi>Godmanch<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ster,</hi> by Mr. <hi>Iohn Tiffin</hi> near <hi>Huntington</hi> Bookseller.</item>
+                  <item>
+                     <hi>Kitgton,</hi> by Mr. <hi>Francis Davis</hi> in <hi>Herefordshire,</hi> Mercer.</item>
+                  <item>
+                     <hi>Dunmore,</hi> by <hi>Ralph Brewit</hi> in <hi>Essex.</hi>
+                  </item>
+                  <item>
+                     <hi>Daintry,</hi> by <hi>Mr. Mosse.</hi>
+                  </item>
+                  <item>
+                     <hi>Windsor,</hi> by Mr. <hi>William Holder</hi> at the Crispin over against the lower Gate of the Castle.</item>
+                  <item>
+                     <hi>Kingslyn,</hi> by Mr. <hi>Iohn Miller, Norfolk</hi>
+                  </item>
+                  <item>
+                     <hi>Waymouth,</hi> by Mr. <hi>Francis Reeds,</hi> Grocer.</item>
+                  <item>
+                     <hi>Harborough,</hi> by Mr. <hi>Nehem. Thompson, Leicestershire.</hi>
+                  </item>
+                  <item>
+                     <hi>Bremingham,</hi> by Mr. <hi>Iohn Wallaxall, Warwickshire.</hi>
+                  </item>
+                  <item>
+                     <hi>Evil,</hi> by Mr. <hi>Robert Tarr</hi> Barber-Chirurgeon, <hi>Somersetshire.</hi>
+                  </item>
+                  <pb n="20" facs="tcp:42887:12"/>
+                  <item>In <hi>Borne,</hi> by Mr. <hi>John Ive<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi> in <hi>Lincolnshire.</hi>
+                  </item>
+                  <item>
+                     <hi>Heberige,</hi> by Mr. <hi>Richard Roper</hi> near <hi>Malden.</hi>
+                  </item>
+                  <item>
+                     <hi>Shaftsbury,</hi> by Mr. <hi>Butler.</hi>
+                  </item>
+                  <item>
+                     <hi>Evilchester,</hi> by Mr. <hi>Tho. Trent, Somersetshire.</hi>
+                  </item>
+                  <item>
+                     <hi>Sheffield,</hi> by Mr. <hi>John Graves, York shire.</hi>
+                  </item>
+                  <item>
+                     <hi>North-Perrot,</hi> by Mr. <hi>John Patridge, Somersetshire.</hi>
+                  </item>
+                  <item>
+                     <hi>Stafford,</hi> by Mr. <hi>Tho. Collins,</hi> for the Town and County.</item>
+                  <item>
+                     <hi>Clifton</hi> on <hi>Dunsmore,</hi> by Mr. <hi>Matthias Newton, Warwickshire.</hi>
+                  </item>
+                  <item>
+                     <hi>Highamferris,</hi> by Mr. <hi>Twyford Warthington,</hi> Grocer.</item>
+                  <item>
+                     <hi>Wellinborough,</hi> by Mr. <hi>John Worthington,</hi> Mercer.</item>
+                  <item>
+                     <hi>Blackmore,</hi> by Mr. <hi>Tho. Sayer,</hi> in <hi>Essex.</hi>
+                  </item>
+                  <item>
+                     <hi>Wendover,</hi> by Mr. <hi>John Duncomb:</hi> and at <hi>Tame</hi> and <hi>Tring.</hi>
+                  </item>
+                  <item>
+                     <hi>Shiply,</hi> by Mr. <hi>Bernard Tully, Sussex.</hi>
+                  </item>
+                  <item>
+                     <hi>Tocester,</hi> by Mr. <hi>John Hart</hi> Brasier.</item>
+                  <item>
+                     <hi>Long-Milford,</hi> by Mr. <hi>Matthew Pattal, Suffolk.</hi>
+                  </item>
+                  <item>
+                     <hi>Reading,</hi> by Mrs. <hi>Elizabeth Bradbridg.</hi>
+                  </item>
+                  <item>
+                     <hi>Woodham Ferries,</hi> by <hi>John Gurten.</hi>
+                  </item>
+                  <item>
+                     <hi>Carleton,</hi> by <hi>Tho. Lucas, Bedfordshire.</hi>
+                  </item>
+                  <item>
+                     <hi>Kittering</hi> and <hi>Wellinborough,</hi> by Mr. <hi>Tho.</hi> and Mr. <hi>Jesse Bruce.</hi>
+                  </item>
+                  <item>
+                     <hi>Chard,</hi> by Mrs. <hi>Anne Atkens,</hi> Grocer.</item>
+                  <item>
+                     <hi>Taunton-Dean,</hi> by Mr. <hi>John Hucker</hi> Sope-boller in High-street.</item>
+                  <item>
+                     <hi>Wilscome,</hi> by Mr. <hi>William Lawrence, Somersetshire.</hi>
+                  </item>
+                  <item>
+                     <hi>Dover,</hi> by Mr. <hi>John Hall</hi> Tallow-chandler.</item>
+                  <item>
+                     <hi>Wickham,</hi> by Mr. <hi>Levy Gibbs, Buckinghamshire.</hi>
+                  </item>
+                  <item>
+                     <hi>Welch pool,</hi> by Mr. <hi>Samuel Wollastone.</hi>
+                  </item>
+                  <item>
+                     <hi>Monmouth,</hi> by Mr. <hi>Robert Mason.</hi>
+                  </item>
+                  <item>
+                     <hi>Ludlow,</hi> by Mr. <hi>Edward Robertson.</hi>
+                  </item>
+                  <item>
+                     <hi>Ashford,</hi> by Mr. <hi>Is<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ac Brisenden,</hi> in <hi>Kent.</hi>
+                  </item>
+                  <item>
+                     <hi>Oxford,</hi> by Mr. <hi>James Jennings.</hi>
+                  </item>
+                  <item>
+                     <hi>Maidstone,</hi> by Mr. <hi>Christopher Lee.</hi>
+                  </item>
+                  <item>
+                     <hi>Westchester,</hi> by Mr. <hi>James Lem.</hi>
+                  </item>
+                  <item>S. <hi>Edmondsbury,</hi> by Mr <hi>Peter Philips.</hi>
+                  </item>
+                  <item>
+                     <hi>Darby,</hi> by Mr. <hi>Jethro Thorneton.</hi>
+                  </item>
+                  <item>
+                     <hi>Tipton Green,</hi> by Black <hi>Samuel Whitehouse, Staffordshire.</hi>
+                  </item>
+                  <item>
+                     <hi>Chelmsford,</hi> by Mr. <hi>Tho. Milne,</hi> Grocer.</item>
+                  <item>
+                     <hi>Braintree,</hi> by Mr. <hi>James Crooke,</hi> Bookseller.</item>
+                  <item>
+                     <hi>Colchester,</hi> by <hi>John Wheely,</hi> Ironmonger.</item>
+                  <item>
+                     <hi>Harwich,</hi> by Mr. <hi>Buckstone,</hi> Barber-Chirurgeon.</item>
+                  <item>
+                     <hi>Ottery</hi> St. <hi>Mary</hi> in <hi>Devon,</hi> by Mr. <hi>George Greenway.</hi>
+                  </item>
+                  <item>
+                     <hi>Norwich,</hi> by Mr. <hi>Peter Scot,</hi> Mercer.</item>
+                  <item>
+                     <hi>Walsham,</hi> by Mr. <hi>Robert Nockhold,</hi> Barber.</item>
+                  <item>
+                     <hi>Lyn,</hi> by <hi>Joseph Whitworth.</hi>
+                  </item>
+                  <item>
+                     <hi>Wisbidge,</hi> by Mr. <hi>Robert Morgan,</hi> Barber-Chirurgeon.</item>
+                  <item>
+                     <hi>Peterborough,</hi> by Mr. <hi>Seth Meeke,</hi> Barber.</item>
+                  <item>
+                     <hi>Stamford,</hi> by Mr. <hi>John Shepherd,</hi> Barber.</item>
+                  <item>
+                     <hi>Grantham,</hi> by Mr. <hi>Robert Pawlet,</hi> Bookseller.</item>
+                  <item>
+                     <hi>Boston,</hi> by Mr. <hi>Iohn Malory,</hi> Bookseller.</item>
+                  <pb n="21" facs="tcp:42887:12"/>
+                  <item>In <hi>Devizes,</hi> by <hi>Iohn Hammond,</hi> Bookseller.</item>
+                  <item>
+                     <hi>Ely,</hi> by Mr. <hi>Rich. Rider</hi> sen. Postmaster.</item>
+                  <item>
+                     <hi>Marlborough,</hi> by Mr. <hi>Tho. Hunt,</hi> Bookseller.</item>
+                  <item>
+                     <hi>Newberry,</hi> by Mr. <hi>Church Simmons,</hi> Bookseller.</item>
+                  <item>
+                     <hi>Townton,</hi> by Mr. <hi>Iohn Smith,</hi> Bookseller.</item>
+                  <item>
+                     <hi>Brewton,</hi> by Mr. <hi>Iohn Combe, Somersetsh.</hi>
+                  </item>
+                  <item>
+                     <hi>Preston,</hi> by Mr. <hi>Philip Burton,</hi> Bookseller.</item>
+                  <item>
+                     <hi>Oswestrey,</hi> by Mr. <hi>Tho. Davies</hi> Deputy Postmaster.</item>
+                  <item>
+                     <hi>Gainsborough,</hi> by Mr. <hi>Iohn Barrow,</hi> Mercer.</item>
+                  <item>
+                     <hi>Pomfret,</hi> by Mr. <hi>Tho. Willamet,</hi> Bookseller.</item>
+                  <item>
+                     <hi>Wakefield,</hi> by Mr. <hi>Robert Bradley,</hi> Bookseller.</item>
+                  <item>
+                     <hi>Leeds,</hi> by Mr. <hi>Iohn Penrose,</hi> Bookseller.</item>
+                  <item>
+                     <hi>York,</hi> by Mr. <hi>Iohn Petty,</hi> Barber on the Pavement.</item>
+                  <item>
+                     <hi>Rippon,</hi> by Mr <hi>Christopher Terry,</hi> Barber Chirurgeon.</item>
+                  <item>
+                     <hi>Durham,</hi> by Mr. <hi>George Cumings,</hi> Merchant.</item>
+                  <item>
+                     <hi>Barwick</hi> upon <hi>Tweed,</hi> by Mr. <hi>Tho. Gre<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ny,</hi> Apothecary.</item>
+                  <item>
+                     <hi>Carlisle,</hi> by Mr. <hi>Iohn Broadstood,</hi> Postmaster.</item>
+                  <item>
+                     <hi>Leverpool,</hi> by Mr. <hi>Rob. Harshal,</hi> Linnen-draper, and at his Shop in <hi>Warrington.</hi>
+                  </item>
+                  <item>
+                     <hi>Hereford,</hi> by Mr. <hi>Edmund Hawly,</hi> Barber.</item>
+                  <item>
+                     <hi>Glocester,</hi> by Mr. <hi>Toby Langford,</hi> Bookseller in <hi>Southgate street.</hi>
+                  </item>
+                  <item>
+                     <hi>Bridgwater,</hi> by Mr. <hi>Iohn How,</hi> Barber and Bookseller.</item>
+                  <item>
+                     <hi>Wellington,</hi> by Mr. <hi>Tho Lockyer.</hi>
+                  </item>
+                  <item>
+                     <hi>Line,</hi> by Mr. <hi>Christopher Spragg,</hi> Barber and Bookseller.</item>
+                  <item>
+                     <hi>Dorchester,</hi> by Mr. <hi>William Browne,</hi> Bookseller.</item>
+                  <item>
+                     <hi>Pool,</hi> by Mr. <hi>Richard Smith,</hi> Mercer.</item>
+                  <item>
+                     <hi>Southampton,</hi> by Mr. <hi>Go. Powel,</hi> Bookseller, and at his Shop at <hi>Rumsey.</hi>
+                  </item>
+                  <item>
+                     <hi>Wells,</hi> by Mr. <hi>Iohn Collins,</hi> Grocer.</item>
+                  <item>
+                     <hi>Limbrick,</hi> by Mr. <hi>Paul Grimbal,</hi> Merchant.</item>
+                  <item>
+                     <hi>Kilkenny,</hi> by Mr. <hi>Richard Prat,</hi> and Mr. <hi>Richard Mewckings.</hi>
+                  </item>
+               </list>
+               <list>
+                  <head>For the Kingdom of <hi>Scotland.</hi>
+                  </head>
+                  <item>Mr. <hi>Gideon Schaw</hi> of <hi>Edinborough,</hi> Bookseller, and Mr. <hi>Iames Iohnson</hi> of <hi>Lith<g ref="char:EOLhyphen"/>co<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi> Merchant, and who else they shall appoint in that <hi>Kingdom.</hi>
+                  </item>
+               </list>
+               <list>
+                  <head>For the Kingdom of <hi>Ireland.</hi>
+                  </head>
+                  <item>Mr. <hi>Fisher</hi> of <hi>Dublin</hi> in the High street, Mr. <hi>Iohn Sparling</hi> of <hi>Waterford,</hi> and</item>
+                  <item>Mr. <hi>Io Coleman</hi> of <hi>Cork,</hi> and who else they shall think fit to depute for them. <hi>Bridgtown</hi> in <hi>Barbadoes, Iohn Barker</hi> Merchant.</item>
+                  <item>Mr. <hi>Iohn Fleming</hi> at the <hi>Port Royal</hi> in <hi>Iamaica,</hi> and who else he shall appoint in that Island.</item>
+               </list>
+               <p>
+                  <hi>Absalom</hi> because he had no Son to keep his Name, he erected a Pillar, and called it <hi>after his own Name,</hi> 2 <hi>Sam c.</hi> 18. <hi>v.</hi> 18. I have had Sons, but they are not, and so I shall call the Pill after my own name,</p>
+               <p>
+                  <hi>LIONEL LOCKYERS PILL.</hi>
+               </p>
+            </div>
+            <div type="directions_for_use">
+               <pb n="22" facs="tcp:42887:13"/>
+               <head>Directions for the use of the Pill.</head>
+               <p>AS to the manner of its Administration, it is so highly prepared, that it may very conveniently, as well as safely, be administred <gap reason="illegible" resp="#murp" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ind of persons, whether young or old, strong or weak, Infants new-born, or old men where Nature is much decayed.</p>
+               <p>Every one that makes use of my Pill, must use Discretion in the Do<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e, (and in that be a Physician to himself) and take or give it, as strength and the Dis<g ref="char:EOLhyphen"/>ease require, and then the Patient shall not fail of his end or desire, nor the Administrer of credit and honour. The general Rules for its use are these: They may be taken at any time of the year, either in hot or cold seasons. They ought not to be taken upon a full stomach. Those which are not acquain<g ref="char:EOLhyphen"/>ted with the manner of their operation on themselves, should keep within, or warmer than usual when they take them first. They may be taken at night after a slight supper, or none rather, or early in the morning, and slept after, if you will; or upon necessity, at any time of the day, as in Surfeits, and an hour or two before an Ague fit. To drink Posset-Ale with them when they work much, will be best, a draught of any other warm Liquor will serve the turn, though but small Beer; which need not be taken in three or four hours after, except they work sooner. He that takes of them onely for a Purge, and for once, may take ab<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ut five at a time; which if bruised, and mi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t with a little Honey or Wine, will scarce fail to answer his end. Those which take them for long Chronical Diseases, may begin at two, and so proceed daily to increase the number by one in a day, to seven, eight, or nine, or stop sooner, and take them whole as they be, which way they strengthen most, or beat them to powder, if they would have them to evacuate much. To children one Pill is enough for once, or two at most, and to weak children half an one may serve.</p>
+               <p>To secure the true Preparation in the hands of faithful and intelligent per<g ref="char:EOLhyphen"/>sons, I have given my Receipt to Mr. <hi>Tho. Fyge,</hi> in which I had no other design but the publick good, as I have many years declared; as also to my Nephew Mr. <hi>Iohn Watts,</hi> Operator in my house, from whom you need not doubt of the true medicine, and all other pretenders to the knowledge of it, I disown and protest against, for all their living with me; and he that takes any Pills but of Mr. <hi>Fyge</hi> and Mr. <hi>Watts</hi> after my death, is deceived; for they onely know its due and true Chymical Preparation. The Pills are made up in Latten Boxes, and sealed with my Coat of Arms, and after my decease to be also sealed with the Arms of Mr. <hi>Fyge,</hi> to prevent counterseits; and he and my Nephew may take what other course they will for that purpose. The price of a Box which contains about an hundred, a few more or less, according to their bigness, is 4 <hi>s.</hi> and half a Box is 2 <hi>s.</hi> and no where to be had but where the Book directs you.</p>
+            </div>
+         </div>
+         <div type="postscript">
+            <head>ADVERTISEMENT.</head>
+            <p>SInce the decease of Dr. <hi>Lockyer,</hi> to prevent deceit and mistake, all the Boxes of Pill<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> are wrapt up in white Paper, and sealed with his Coat of Arms, <hi>viz.</hi> Three Boars head<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, and the Arms of <hi>Tho. Fyge,</hi> which are the six Flower-de-Liuces and three Spur Rowels; and in the papers are writ the names of <hi>Tho. Fyge</hi> and <hi>John Watts,</hi> by which means you may know his from all others: they are now sold by wholesale and retail, by</p>
+            <list>
+               <item>
+                  <hi>Tho. Fyge</hi> at the Sugar loaf without <hi>Bishopsgate,</hi>
+               </item>
+               <item>
+                  <hi>John Watts</hi> in S. <hi>Thomas Southwa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>k.</hi>
+               </item>
+            </list>
+         </div>
+         <trailer>FINIS.
+<pb facs="tcp:42887:13"/>
+         </trailer>
+      </body>
+   </text>
+</TEI>
